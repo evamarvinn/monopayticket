@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 dist/
 .netlify/
 node_modules/
 .tmp-appdata/
+=======
+dist/
+.netlify/
+node_modules/
+.tmp-appdata/
+>>>>>>> 25326aeec514e3596edb4b174acfa9fa0af2e160
 .tools/
